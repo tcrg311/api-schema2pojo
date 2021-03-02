@@ -11,6 +11,8 @@
     <artifactId>jsonschema2pojo-core</artifactId>
 
     <name>jsonschema2pojo-core</name>
+    
+    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>
